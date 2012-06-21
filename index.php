@@ -14,5 +14,5 @@ if ($_POST) {
         <option value="guinness">Guinness</option>
         <option value="stuttgarter">Stuttgarter Schwabenbrau</option>
     </select><br />
-    <input type="submit" value="Отправь меня!" />
+    <input type="submit" value="Отправь!" />
 </form> 
