@@ -1,4 +1,4 @@
-пїњ<?php
+<?php
 if ($_POST) {
     echo '<pre>';
     echo htmlspecialchars(print_r($_POST, true));
@@ -6,9 +6,9 @@ if ($_POST) {
 }
 ?>
 <form action="" method="post">
-    »м€:  <input type="text" name="personal[name]" /><br />
-    Email: <input type="text" name="personal[email]" /><br />
-    ѕиво: <br />
+    –Ш–Ь–ѓ:  <input type="text" name="personal[name]" /><br />
+    –Ь–Ђ–Ы–Ю: <input type="text" name="personal[email]" /><br />
+    –Я–Ш–Т–Ю: <br />
     <select multiple name="beer[]">
         <option value="warthog">Warthog</option>
         <option value="guinness">Guinness</option>
