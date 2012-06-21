@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 if ($_POST) {
     echo '<pre>';
     echo htmlspecialchars(print_r($_POST, true));
@@ -14,5 +14,5 @@ if ($_POST) {
         <option value="guinness">Guinness</option>
         <option value="stuttgarter">Stuttgarter Schwabenbrau</option>
     </select><br />
-    <input type="submit" value="Îòïðàâü!" />
+    <input type="submit" value="ÑÐ°Ð±Ð¼Ð¸Ñ‚!" />
 </form> 
